@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+
+    margin-top: 56px;
+}
+
+.carousel-caption>h5{
+
+    color: grey;
+}
+
+.carousel-caption>p{
+    
+    color: grey;
+}
+
+main{
+
+    background-color: #000000;
+    color: lightgray;
+}
+
+.headline{
+    display: flex;
+    padding: 10px 0px 10px 50px;
+    align-items: center;
+}
+
+i{
+    cursor: pointer;
+}
+.icon-red{
+    color:red;
+}
